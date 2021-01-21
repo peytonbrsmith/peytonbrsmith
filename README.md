@@ -5,6 +5,4 @@
 
 ![Metrics](https://metrics.lecoq.io/peytonbrsmith?template=terminal&base.community=0&base.metadata=0&languages=1&isocalendar=1&activity=1&languages.ignored=M%2C%20Forth&isocalendar.duration=full-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FChicago&config.animated=true)
 
-<p align="center">
-  ![Metrics](https://metrics.lecoq.io/peytonbrsmith?template=terminal&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&activity=1&languages.ignored=M%2C%20Forth&isocalendar.duration=full-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FChicago&config.animated=true)
-</p>
+![Metrics](https://metrics.lecoq.io/peytonbrsmith?template=terminal&base.community=0&base.repositories=0&base.metadata=0&languages=1&activity=1&languages.ignored=M%2C%20Forth&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FChicago&config.animated=true)
