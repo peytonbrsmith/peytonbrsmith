@@ -2,6 +2,7 @@
 <h3 align="center">🚀 I have a passion for technology, and I want to use it! 🚀</h3>  
 <h4 align="center"> Full Stack Development Student at Holberton School </h3>  
 
+***
 
 | Known Languages and Tools                                    | Find me at:                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
