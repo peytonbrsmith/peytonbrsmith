@@ -3,8 +3,6 @@
 <h4 align="center"> Full Stack Development Student at Holberton School </h3>  
 
 
-***
-
 | Known Languages and Tools                                    | Find me at:                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Metrics](https://metrics.lecoq.io/peytonbrsmith?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=M%2C%20Forth&config.timezone=America%2FChicago&config.animated=true) | <a href="https://www.holbertonschool.com/" target="_blank"> <img src="https://www.holbertonschool.com/holberton-logo.png" alt="c" width="409" height="128"/> |
