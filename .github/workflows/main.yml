@@ -28,10 +28,3 @@ jobs:
           plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
           plugin_pagespeed_screenshot: yes                        # Display a screenshot of your website
           plugin_pagespeed_url: .user.website                    # Website to audit (defaults to your GitHub linked website)
-          plugin_activity: yes
-          plugin_activity_limit: 5    # Limit to 5 events
-          plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
-          plugin_activity_filter: all # Show all events (use table above to filter events types)
-          plugin_stars: yes
-          plugin_stars_limit: 4 # Limit to 4 entries
-          plugin_people: yes
