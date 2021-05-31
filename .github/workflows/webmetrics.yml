@@ -13,6 +13,7 @@ jobs:
       - uses: peytonbrsmith/metrics@master
         with:
           # Your GitHub token
+          filename: webmetrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: metadata
           plugin_pagespeed: yes
