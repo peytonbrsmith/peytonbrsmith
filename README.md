@@ -7,5 +7,4 @@
 <!-- If you're using "main" as default branch -->
 | Experience      | My Website:           |
 | ------------- |:-------------:|
-| ![Metrics](https://github.com/peytonbrsmith/peytonbrsmith/blob/main/github-toolmetrics.svg)     | ![Metrics](https://github.com/peytonbrsmith/peytonbrsmith/blob/main/github-webmetrics.svg) |
-
+| ![Metrics](https://github.com/peytonbrsmith/peytonbrsmith/blob/main/toolmetrics.svg)     | ![Metrics](https://github.com/peytonbrsmith/peytonbrsmith/blob/main/webmetrics.svg) |
