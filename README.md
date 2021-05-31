@@ -5,4 +5,7 @@
 ***
 
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/peytonbrsmith/peytonbrsmith/blob/main/github-metrics.svg)
+| Some of my tools:       | My Website:           |
+| ------------- |:-------------:|
+| ![Metrics](https://github.com/peytonbrsmith/peytonbrsmith/blob/main/github-toolmetrics.svg)     | ![Metrics](https://github.com/peytonbrsmith/peytonbrsmith/blob/main/github-webmetrics.svg) |
+
