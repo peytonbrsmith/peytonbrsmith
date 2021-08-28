@@ -13,7 +13,7 @@ jobs:
       - uses: peytonbrsmith/metrics@master
         with:
           # Your GitHub token
-          filename: toolmetrics.svg
+          filename: toolmetrics.png
           token: ${{ secrets.METRICS_TOKEN }}
           base: no
           plugin_topics: yes
