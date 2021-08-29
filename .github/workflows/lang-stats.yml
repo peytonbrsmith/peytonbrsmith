@@ -1,5 +1,7 @@
 name: langstats
 on:
+  workflow_dispatch:
+    # allows manual trigger
   # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
