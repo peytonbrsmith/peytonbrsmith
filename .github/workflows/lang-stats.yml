@@ -21,4 +21,7 @@ jobs:
           plugin_languages_skipped: metrics, webxrtesting
           plugin_languages_threshold: "2%"
           plugin_languages_indepth: true
-          plugin_languages_categories: markup, programming, prose, data
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 0
+          commits_authoring: peytonbrsmith, peytonbrsmith@gmail.com
+          plugin_languages_ignored: none
