@@ -25,4 +25,4 @@ jobs:
 #           plugin_languages_indepth: true
           plugin_languages_limit: 8
           commits_authoring: peytonbrsmith, peytonbrsmith@gmail.com
-          plugin_languages_ignored: ini, markdown, xml
+          plugin_languages_ignored: ini, markdown, xml, html, css
