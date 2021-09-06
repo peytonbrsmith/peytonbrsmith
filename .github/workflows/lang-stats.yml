@@ -23,7 +23,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_skipped: holbertonschool-unity, metrics, webxrtesting, create-react-app_test, nextjs_test, 0x05-unity-assets_models_textures, personal_site, AirBnB_clone_v3, AirBnB_clone_v2, AirBnB_clone_v1, AirBnB_clone
           plugin_languages_threshold: "2%"
-#           plugin_languages_indepth: true
+          plugin_languages_indepth: true
           plugin_languages_limit: 8
-#           commits_authoring: peytonbrsmith, peytonbrsmith@gmail.com
+          commits_authoring: peytonbrsmith, peytonbrsmith@gmail.com
           plugin_languages_ignored: ini, markdown, xml, html, css
