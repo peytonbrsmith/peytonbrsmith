@@ -2,7 +2,10 @@
 <h3 align="center">🚀 I have a passion for technology, and I want to use it! 🚀</h3> 
 
 ***
-<div align="center"> <img src="https://raw.githubusercontent.com/peytonbrsmith/peytonbrsmith/main/lang-stats.svg"> </div>
+<div display="flex"> 
+<img src="https://raw.githubusercontent.com/peytonbrsmith/peytonbrsmith/main/lang-stats.svg"> 
+<img src="https://raw.githubusercontent.com/peytonbrsmith/peytonbrsmith/main/toolmetrics.svg"> 
+</div>
 <!-- If you're using "main" as default branch -->
 <!-- | My Experience      | My Website           |
 | ------------- |:-------------:|
