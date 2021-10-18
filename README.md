@@ -1,11 +1,10 @@
 <h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Hi 👋, I'm Peyton Smith&fontSize=30&fontAlignY=80" alt="Hi 👋, I'm Peyton Smith"/></h1>  
 <h3 align="center">🚀 I have a passion for technology, and I want to use it! 🚀</h3> 
 
-***
-<div display="flex"> 
-<img src="https://raw.githubusercontent.com/peytonbrsmith/peytonbrsmith/main/lang-stats.svg"> 
-<img src="https://raw.githubusercontent.com/peytonbrsmith/peytonbrsmith/main/toolmetrics.svg"> 
-</div>
+|   | |
+|---|---|
+|<img src="https://raw.githubusercontent.com/peytonbrsmith/peytonbrsmith/main/lang-stats.svg"> | <img src="https://raw.githubusercontent.com/peytonbrsmith/peytonbrsmith/main/toolmetrics.svg"> |
+
 <!-- If you're using "main" as default branch -->
 <!-- | My Experience      | My Website           |
 | ------------- |:-------------:|
