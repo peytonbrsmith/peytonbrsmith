@@ -22,3 +22,5 @@ jobs:
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0       # Disable limitation
           plugin_habits: yes
+          plugin_habits_charts: yes
+          config_timezone: America/Chicago
