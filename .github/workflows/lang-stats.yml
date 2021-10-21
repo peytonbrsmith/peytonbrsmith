@@ -26,4 +26,4 @@ jobs:
 #           plugin_languages_indepth: true
           plugin_languages_limit: 8
 #           commits_authoring: peytonbrsmith, peytonbrsmith@gmail.com
-          plugin_languages_ignored: ASP.net
+          plugin_languages_ignored: ASP.net, shaderlab, mathematica
